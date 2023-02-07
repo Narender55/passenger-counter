@@ -6,11 +6,14 @@ body{
     font-weight: bold;
     text-align: center;
     margin: 0;
-    background-position:inherit;
+    
     background-attachment: fixed;
 
+    
 }
 
+
+    
 
 .container{
 
